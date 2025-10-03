@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025.10.03 18:21:53.810,=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025.10.03 18:22:34.752,C:\Delphi\Delphi-FMX\ObjectInspector\MainUnit.fmx=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2025.10.03 18:22:34.752,C:\Delphi\Delphi-FMX\ObjectInspector\MainUnit.pas=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025.10.03 18:22:57.196,C:\Delphi\Delphi-FMX\ObjectInspector\ObjectInspector.dproj=C:\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

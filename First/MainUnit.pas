@@ -9,7 +9,9 @@ uses
 
 type
   TForm1 = class(TForm)
+    Button1: TButton;
     Label1: TLabel;
+    procedure Button1Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -24,5 +26,10 @@ implementation
 {$R *.fmx}
 {$R *.Macintosh.fmx MACOS}
 {$R *.Windows.fmx MSWINDOWS}
+
+procedure TForm1.Button1Click(Sender: TObject);
+begin
+  Label1.Text := 'Hello World!';
+end;
 
 end.
